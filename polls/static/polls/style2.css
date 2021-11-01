@@ -1,0 +1,8 @@
+body {
+    background: black url("images/background3.png") no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+a{
+    color: black;
+}
